@@ -390,6 +390,7 @@
     background-color: var(--end-bg-color);
     border: transparent;
     border-radius: 4px;
+    cursor: pointer;
     
 }
 
