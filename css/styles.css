@@ -102,7 +102,7 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     text-decoration: none;
 }
 
@@ -384,7 +384,7 @@
     background-color: var(--end-bg-color);
     font-family: inherit;
     font-weight: 500;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.62;
     letter-spacing: 0.03em;
     background-color: var(--end-bg-color);
